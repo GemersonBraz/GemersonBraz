@@ -1,5 +1,5 @@
 <h1> Olá! eu sou o Gemerson. 👋</h1>
-
+- 😄 Sou apenas um estudante de programação!
 <!--
 **GemersonBraz/GemersonBraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
